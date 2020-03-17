@@ -1,0 +1,9 @@
+*.log
+*.db
+/__pycache__
+*.pyc
+*.pyo
+*.bak
+*.idea
+*.spec
+/build
